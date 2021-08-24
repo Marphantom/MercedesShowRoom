@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "productSeries": "GLC",
+      "productName": "400",
+      "price": 12000000000.0,
+      "receipt": "21/08/2021"
+    }
+  ]
+}

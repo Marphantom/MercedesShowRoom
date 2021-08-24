@@ -1,0 +1,64 @@
+{
+  "bills": [
+    {
+      "billId": 1,
+      "dateBill": "2021-08-20T00:00:00",
+      "nameCus": "Nguyen Van A",
+      "phoneCus": "0123456789",
+      "adressCus": "Hue",
+      "productSeries": "C",
+      "productName": "300",
+      "price": 2000000000.0
+    },
+    {
+      "billId": 2,
+      "dateBill": "2021-08-20T19:32:09.1834293+07:00",
+      "nameCus": "nguyen",
+      "phoneCus": "01216",
+      "adressCus": "hue",
+      "productSeries": "C",
+      "productName": "300",
+      "price": 2000000000.0
+    },
+    {
+      "billId": 3,
+      "dateBill": "2021-08-20T19:34:06.9432763+07:00",
+      "nameCus": "chinh",
+      "phoneCus": "0548962",
+      "adressCus": "dn",
+      "productSeries": "E",
+      "productName": "300",
+      "price": 5000000000.0
+    },
+    {
+      "billId": 4,
+      "dateBill": "2021-08-20T19:37:21.230315+07:00",
+      "nameCus": "huy",
+      "phoneCus": "0566416",
+      "adressCus": "hcm",
+      "productSeries": "C",
+      "productName": "250",
+      "price": 1200000000.0
+    },
+    {
+      "billId": 5,
+      "dateBill": "2021-08-20T19:40:11.5485765+07:00",
+      "nameCus": "long",
+      "phoneCus": "019162169",
+      "adressCus": "hue",
+      "productSeries": "C",
+      "productName": "300",
+      "price": 2000000000.0
+    },
+    {
+      "billId": 6,
+      "dateBill": "2021-08-23T09:38:21.9877561+07:00",
+      "nameCus": "huy",
+      "phoneCus": "165132",
+      "adressCus": "ihasbf",
+      "productSeries": "C",
+      "productName": "300",
+      "price": 2000000000.0
+    }
+  ]
+}

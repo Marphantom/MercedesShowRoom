@@ -1,0 +1,25 @@
+{
+  "staffs": [
+    {
+      "staffId": 1001,
+      "staffName": "Truong Van Trong Nguyen",
+      "staffRole": "admin",
+      "staffPhone": "0766506171",
+      "passWord": "nguyen123"
+    },
+    {
+      "staffId": 1003,
+      "staffName": "Chinh Nguyen",
+      "staffRole": "staff",
+      "staffPhone": "0123456789",
+      "passWord": "chinh123"
+    },
+    {
+      "staffId": 1004,
+      "staffName": "Long Nguyen",
+      "staffRole": "staff",
+      "staffPhone": "06168491",
+      "passWord": "long123"
+    }
+  ]
+}
